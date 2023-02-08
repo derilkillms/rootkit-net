@@ -1,0 +1,9 @@
+program ini hanya program percobaan
+cara makenya mudah
+nanti ada tombol untuk memilih file yang akan diupload
+load file list targetnya atau add target
+gak perlu pake port , username , dan password kalo Open write akses
+agak mirip lah sama tool Hmei7 :'v wkwkwk
+++++++++++++++++++++++++++++++++++++++++++++
+
+Peluru Kertas Dx_Cyber

@@ -1,0 +1,14 @@
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\obj\Debug\WebDavUploadDemo.vbproj.GenerateResource.Cache
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\bin\Debug\rootkit.exe
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\bin\Debug\rootkit.pdb
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\bin\Debug\rootkit.xml
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\obj\Debug\rootkit.Form1.resources
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\obj\Debug\rootkit.f_utama.resources
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\obj\Debug\rootkit.Resources.resources
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\obj\Debug\rootkit.exe
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\obj\Debug\rootkit.xml
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\obj\Debug\rootkit.pdb
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\bin\Debug\rootkit.exe.manifest
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\bin\Debug\rootkit.application
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\obj\Debug\rootkit.exe.manifest
+E:\bahan uas\webdg\WebDavUploadDemo\Backup\WebDavUploadDemo\obj\Debug\rootkit.application
